@@ -2,7 +2,7 @@ function  onlyCharacter( str ) {
     if(typeof str == "string") {
         let stringArray = str.split(" ");
         let problemSolved = stringArray.join("").toUpperCase();
-        // problemSolve.toUpperCase();
+        // problemSolved.toUpperCase();
         return problemSolved;
     }
     return"Invalid";

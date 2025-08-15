@@ -15,7 +15,6 @@ function  bestTeam( player1, player2 ) {
     }
 }
 
-
 // let object01 = { name: "Germany", foul: 10, cardY: 1, cardR: 2};
 // // console.log(typeof object01)
 // // console.log(typeof (object01))

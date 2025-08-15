@@ -34,6 +34,6 @@ function  resultReport( marks ) {
 }
 
 
-let markGet = [];
-const output = resultReport(markGet);
-console.log(output);
+// let markGet = [39, 40, 100, 10, 55, 85];
+// const output = resultReport(markGet);
+// console.log(output);
